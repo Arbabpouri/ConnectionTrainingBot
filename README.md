@@ -1,2 +1,1 @@
-# HelpMe_TelegramBot
-help me telegram bot
+Connection Training Telegram Bot
